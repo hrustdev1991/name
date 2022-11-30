@@ -1,0 +1,21 @@
+{
+  "name": "globe-desires",
+  "version": "1.0.0",
+  "description": "Magic 8 ball, также mystic 8 ball, шар судьбы, шар вопросов и ответов, шар предсказаний — игрушка, шуточный способ предсказывать будущее.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts  --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anton2102/Globe-Desires.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anton2102/Globe-Desires/issues"
+  },
+  "homepage": "https://github.com/Anton2102/Globe-Desires#readme"
+}
