@@ -1,5 +1,5 @@
 # Magic 8 ball
-## Что это?
+## What is it?
 Magic 8 ball, также mystic 8 ball, шар судьбы, шар вопросов и ответов, шар предсказаний — игрушка, шуточный способ предсказывать будущее.
 
 ![glode](https://user-images.githubusercontent.com/61190147/91641009-4d063580-ea2a-11ea-8193-b8886812a23a.jpeg)
